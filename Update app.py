@@ -7,7 +7,7 @@ from streamlit_folium import st_folium
 import plotly.express as px
 
 # --- Load Data ---
-url = "https://raw.githubusercontent.com/rahimiabdulrahmanab/Clinics-Dashboard/refs/heads/main/Clinics.csv"
+url = "https://raw.githubusercontent.com/AbdulRahmanRahimi/clinics-map-streamlit/refs/heads/main/Clinics.csv"
 df = pd.read_csv(url)
 df = df[df["Facility Name (DHIS2)"] != "Jokan-CHC (8629)"]
 
