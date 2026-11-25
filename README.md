@@ -5,9 +5,10 @@ An interactive map of health clinics in Afghanistan, built in Python with Stream
 ## Features
 
 - Folium web map with custom clinic and hospital markers and labels
-- Sidebar filters to narrow clinics by location and facility type
+- Filter clinics by province
 - Search by facility name
-- Clinic data loaded from CSV / Excel with pandas
+- Optional view of the distances between clinics
+- Clinic data loaded from CSV with pandas
 
 ## Run locally
 
