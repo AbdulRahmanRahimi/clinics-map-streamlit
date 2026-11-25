@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import pandas as pd
-url="https://raw.githubusercontent.com/rahimiabdulrahmanab/Clinics-Dashboard/refs/heads/main/Clinics.csv"
+url="https://raw.githubusercontent.com/AbdulRahmanRahimi/clinics-map-streamlit/refs/heads/main/Clinics.csv"
 df=pd.read_csv(url)
 
 # Exclude the clinic with wrong coordinates

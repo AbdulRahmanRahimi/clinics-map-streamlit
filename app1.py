@@ -5,7 +5,7 @@ from streamlit_folium import st_folium
 import streamlit as st
 
 # Load the data
-url="https://raw.githubusercontent.com/rahimiabdulrahmanab/Clinics-Dashboard/refs/heads/main/Clinics.csv"
+url="https://raw.githubusercontent.com/AbdulRahmanRahimi/clinics-map-streamlit/refs/heads/main/Clinics.csv"
 df=pd.read_csv(url)
 
 # Exclude the clinic with wrong coordinates

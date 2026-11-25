@@ -1,6 +1,6 @@
 # Clinics Map (Python + Streamlit)
 
-An interactive map of health clinics in Afghanistan, built in Python with Streamlit and Folium. It is the Python version of the [Afghanistan Clinics Dashboard](https://github.com/rahimiabdulrahmanab/afghanistan-clinics-dashboard), which also loads its clinic data from this repository.
+An interactive map of health clinics in Afghanistan, built in Python with Streamlit and Folium. It is the Python version of the [Afghanistan Clinics Dashboard](https://github.com/AbdulRahmanRahimi/afghanistan-clinics-dashboard), which also loads its clinic data from this repository.
 
 ## Features
 
@@ -30,4 +30,4 @@ The repository also includes a dev container, so it opens ready to run in GitHub
 
 ---
 
-Built by **Abdul Rahman Rahimi**, Software Developer & Geospatial Analyst, [Rahimi Tech Solution](https://github.com/rahimiabdulrahmanab).
+Built by **Abdul Rahman Rahimi**, Software Developer & Geospatial Analyst, [Rahimi Tech Solution](https://github.com/AbdulRahmanRahimi).
